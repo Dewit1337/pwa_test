@@ -8,12 +8,12 @@
         {
             "src": "ico192.png",
             "sizes" : "192x192",
-            "type" : "img/png",
+            "type" : "image/png",
             "purpose" :"any"
         },
         {
             "src": "ico512.png",
-            "type" : "img/png",
+            "type" : "image/png",
             "sizes" : "512x512",
             "purpose" :"any"
         }
